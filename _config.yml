@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Zhen Li / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Li, Zhen"
 description              : &description "A PhD student in The University of Tokyo"
@@ -25,7 +25,7 @@ author:
   name             : "Li, Zhen"
   #pronouns         : # example: "she/her"  
   bio              : "A PhD student in The University of Tokyo"
-  location         : "Kashiwa, Chiba, Japan"
+  location         : "Kashiwa"
   #employer         : "Red Brick University"
   #uri              : # URL
   email            : "li-zhen@g.ecc.u-tokyo.ac.jp" 
