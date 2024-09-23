@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-------
+## Education
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012-->
@@ -26,8 +25,7 @@ Education
     [Graduate School of Frontier Science](https://www.k.u-tokyo.ac.jp), [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)<br>
     Kashiwa, Japan
 
-Work
-------
+## Work
 *   **Part-time Teacher** 2019.07 ~ 2019.08<br>
     Xuecheng Education<br>
     Yantai, China
@@ -40,12 +38,10 @@ Work
     [Akamon Education](https://akjc-inc.com/)<br>
     Tokyo, Japan
 
-Fellowship
-------
+## Fellowship
 * [Spring GX](https://spring-gx.adm.s.u-tokyo.ac.jp/) 2024.10 ~
   
-Skills
-------
+## Skills
 * Programming
   * C/C++
   * Python
