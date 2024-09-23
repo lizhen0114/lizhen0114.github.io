@@ -13,28 +13,28 @@ redirect_from:
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012-->
-*   **Bachelor of Science** 2017.09 ~ 2021.07<br>
+*   **Bachelor of Science**: 2017.09 ~ 2021.07<br>
     [Department of Physics](https://physics.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/)<br>
     Nanjing, China
 
-*   **Master of Science** 2022.10 ~ 2024.09<br>
+*   **Master of Science**: 2022.10 ~ 2024.09<br>
     [Graduate School of Frontier Science](https://www.k.u-tokyo.ac.jp), [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)<br>
     Kashiwa, Japan
 
-*   **PhD student** 2024.10 ~<br>
+*   **PhD student**: 2024.10 ~<br>
     [Graduate School of Frontier Science](https://www.k.u-tokyo.ac.jp), [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)<br>
     Kashiwa, Japan
 
 ## Work
-*   **Part-time Teacher** 2019.07 ~ 2019.08<br>
+*   **Part-time Teacher**: 2019.07 ~ 2019.08<br>
     Xuecheng Education<br>
     Yantai, China
 
-*   **Engineer** 2021.09 ~ 2022.08<br>
+*   **Engineer**: 2021.09 ~ 2022.08<br>
     Xinfei Intelligent System Co. Ltd.<br>
     Yantai, China  
 
-*   **Part-time Teacher** 2022.11 ~ <br>
+*   **Part-time Teacher**: 2022.11 ~ <br>
     [Akamon Education](https://akjc-inc.com/)<br>
     Tokyo, Japan
 
