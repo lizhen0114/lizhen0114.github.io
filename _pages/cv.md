@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012-->
@@ -27,7 +27,7 @@ Education
     Kashiwa, Japan
 
 Work
-======
+------
 *   **Part-time Teacher** 2019.07 ~ 2019.08<br>
     Xuecheng Education<br>
     Yantai, China
@@ -41,11 +41,11 @@ Work
     Tokyo, Japan
 
 Fellowship
-======
+------
 * [Spring GX](https://spring-gx.adm.s.u-tokyo.ac.jp/) 2024.10 ~
   
 Skills
-======
+------
 * Programming
   * C/C++
   * Python
@@ -58,19 +58,19 @@ Skills
 
 <!--
 Publications
-======
+------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+------
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
-======
+------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
