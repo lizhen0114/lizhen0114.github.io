@@ -39,7 +39,7 @@ redirect_from:
     Tokyo, Japan
 
 ## Fellowship
-* [Spring GX](https://spring-gx.adm.s.u-tokyo.ac.jp/) 2024.10 ~
+* [Spring GX](https://spring-gx.adm.s.u-tokyo.ac.jp/): 2024.10 ~
   
 ## Skills
 * Programming
