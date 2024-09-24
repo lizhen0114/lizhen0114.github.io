@@ -14,7 +14,7 @@ author_profile: true
 ## Preprint
 1.  _Decomposition of metric tensor in thermodynamic geometry in terms of relaxation timescales_<br>
     **Zhen Li** and Yuki Izumida<br>
-    [arXiv:2409.08546](https://arxiv.org/abs/2409.08546)
+    [arXiv:2409.08546](https://arxiv.org/abs/2409.08546) (2024)
 
 ## Presentation
 1.  _The thermodynamic efficiency and entropy generation rate of the Lorenz system_<br>
