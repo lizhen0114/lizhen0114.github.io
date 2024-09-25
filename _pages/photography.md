@@ -15,7 +15,7 @@ redirect_from:
 </center>
 ******
 
-<div align = center><img src='/images/galaxy.jpeg' width="50%"/></div>
+<div align = center><img src='/images/galaxy.jpeg' /></div>
 <center>
   Alshaa Left Banner, Alasha Ayimag, Inner Mongolia, China<br>
   中国内蒙古自治区阿拉善盟阿拉善左旗<br>
