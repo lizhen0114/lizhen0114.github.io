@@ -17,7 +17,7 @@ redirect_from:
 
 <div align = center><img src='/images/galaxy.jpeg' /></div>
 <center>
-  Alshaa Left Banner, Alasha Ayimag, Inner Mongolia, China<br>
+  Alxa Left Banner, Alxa League, Inner Mongolia, China<br>
   中国内蒙古自治区阿拉善盟阿拉善左旗<br>
   2019.08
 </center>
