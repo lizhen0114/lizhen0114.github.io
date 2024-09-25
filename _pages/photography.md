@@ -138,7 +138,7 @@ redirect_from:
 <center>
   Katasekaigan, Fujisawa, Kanagawa, Japan<br>
   日本神奈川県藤沢市片瀬海岸<br>
-  2021.07
+  2022.09
 </center>
 ******
 
