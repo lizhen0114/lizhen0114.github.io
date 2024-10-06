@@ -38,6 +38,14 @@ redirect_from:
 </center>
 ******
 
+<div align = center><img src='/images/2018_08_weihai.jpeg' /></div>
+<center>
+  Yiyuan, Huancui Dist., Weihai, Shandong, China<br>
+  中国山东省威海市环翠区怡园<br>
+  2018.08
+</center>
+******
+
 <div align = center><img src='/images/2018_11_qixia_nanjing.jpeg' /></div>
 <center>
   Qixia, Qixia Dist., Nanjing, Jiangsu, China<br>
@@ -102,6 +110,14 @@ redirect_from:
 </center>
 ******
 
+<div align = center><img src='/images/2020_07_yantai_zhongqiao.jpg' /></div>
+<center>
+  Zangjiazhuang, Fushan Dist., Yantai, Shandong, China<br>
+  中国山东省烟台市福山区臧家庄<br>
+  2020.07
+</center>
+******
+
 <div align = center><img src='/images/2020_12_jinan.jpg' /></div>
 <center>
   Quanchenglu, Lixia Dist., Jinan, Shandong, China<br>
@@ -112,8 +128,8 @@ redirect_from:
 
 <div align = center><img src='/images/pleiades.jpg' /></div>
 <center>
-  Fulaishan, Fushan Dist., Yantai, Shandong, China<br>
-  中国山东省烟台市福山区福莱山<br>
+  Guxian, Fushan Dist., Yantai, Shandong, China<br>
+  中国山东省烟台市福山区古现<br>
   2021.06
 </center>
 ******
@@ -131,6 +147,14 @@ redirect_from:
   Fulaishan, Fushan Dist., Yantai, Shandong, China<br>
   中国山东省烟台市福山区福莱山<br>
   2021.07
+</center>
+******
+
+<div align = center><img src='/images/2021_08_yantai_tingkou.jpg' /></div>
+<center>
+  Tingkou, Qixia, Shandong, China<br>
+  中国栖霞市亭口<br>
+  2021.08
 </center>
 ******
 
@@ -200,7 +224,7 @@ redirect_from:
 
 <div align = center><img src='/images/2023_11_otsuchichou_iwate.jpg' /></div>
 <center>
-  Honcho, Otsuchichou, Iwate, Japan<br>
+  Honcho, Otsuchicho, Iwate, Japan<br>
   日本岩手県大槌町本町<br>
   2023.08
 </center>
