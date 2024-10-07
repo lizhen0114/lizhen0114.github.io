@@ -153,7 +153,7 @@ redirect_from:
 <div align = center><img src='/images/2021_08_yantai_tingkou.jpg' /></div>
 <center>
   Tingkou, Qixia, Shandong, China<br>
-  中国栖霞市亭口<br>
+  中国山东省栖霞市亭口<br>
   2021.08
 </center>
 ******
