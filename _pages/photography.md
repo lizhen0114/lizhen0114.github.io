@@ -253,3 +253,11 @@ redirect_from:
   2024.04
 </center>
 ******
+
+<div align = center><img src='/images/202410_Chiba.jpg' /></div>
+<center>
+  Mihama, Mihama Ward, Chiba, Chiba, Japan<br>
+  日本千葉県千葉市美浜区美浜<br>
+  2024.10
+</center>
+******
