@@ -10,11 +10,12 @@ author_profile: true
 1.  _Thermodynamic efficiency of atmospheric motion governed by the Lorenz system_<br>
     **Zhen Li** and Yuki Izumida<br>
     [Phys. Rev. E 108, 044201](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.044201) / [arXiv: 2302.03887](https://arxiv.org/abs/2302.03887) (2023)
+2.  _Decomposition of metric tensor in thermodynamic geometry in terms of relaxation timescales_<br>
+    **Zhen Li** and Yuki Izumida<br>
+    (Accepted by Phys. Rev. E) / [arXiv:2409.08546](https://arxiv.org/abs/2409.08546) (2024)
+
 
 ## Preprint
-1.  _Decomposition of metric tensor in thermodynamic geometry in terms of relaxation timescales_<br>
-    **Zhen Li** and Yuki Izumida<br>
-    [arXiv:2409.08546](https://arxiv.org/abs/2409.08546) (2024)
 
 ## Presentation
 1.  _The thermodynamic efficiency and entropy generation rate of the Lorenz system_<br>
