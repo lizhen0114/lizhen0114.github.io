@@ -40,6 +40,9 @@ redirect_from:
 
 ## Fellowship
 * [Spring GX](https://spring-gx.adm.s.u-tokyo.ac.jp/): 2024.10 ~
+
+## Awards
+* Dean's Award for Outstanding Achievement (Master Course), 2025.03
   
 ## Skills
 * Programming
