@@ -32,5 +32,5 @@ author_profile: true
     [Statphys29](https://statphys29.org/), Firenze, Italy, 2025.07 (Poster)
 5.  _Con-FinGAN: Authentic and Diverse Financial Time Series Generation_<br>
     Fan Zhang, **Zhen Li** and Yu Chen<br>
-    [Statphys29](https://statphys29.org/), Firenze, Italy, 2025.07 
+    [Statphys29](https://statphys29.org/), Firenze, Italy, 2025.07 (Poster)
 
