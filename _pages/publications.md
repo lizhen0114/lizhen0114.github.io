@@ -27,4 +27,10 @@ author_profile: true
 3.  _Decomposition of the metric tensor in thermodynamic geometry_<br>
     **Zhen Li** and Yuki Izumida<br>
     [JPS 2024 (79th) Annual Meeting](https://onsite.gakkai-web.net/jps/jps_search/2024au/index.html), Sapporo, Japan, 2024.09
+4.  _Decomposition of metric tensor in thermodynamic geometry in terms of relaxation timescales_<br>
+    **Zhen Li** and Yuki Izumida<br>
+    [Statphys29](https://statphys29.org/), Firenze, Italy, 2025.07 (Poster)
+5.  _Con-FinGAN: Authentic and Diverse Financial Time Series Generation_<br>
+    Fan Zhang, **Zhen Li** and Yu Chen<br>
+    [Statphys29](https://statphys29.org/), Firenze, Italy, 2025.07 
 
