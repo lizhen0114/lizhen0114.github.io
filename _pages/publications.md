@@ -17,6 +17,10 @@ author_profile: true
 
 ## Preprint
 
+1. _Posterior Collapse as a Phase Transition in Variational Autoencoders_<br>
+   **Zhen Li**, Fan Zhang, Zheng Zhang and Yu Chen<br>
+   [arXiv: 2510.01621](https://arxiv.org/abs/2510.01621) (2025)
+
 ## Presentation
 1.  _The thermodynamic efficiency and entropy generation rate of the Lorenz system_<br>
     **Zhen Li**<br>
