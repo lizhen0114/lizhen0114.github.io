@@ -9,13 +9,13 @@ author_profile: true
 
 1.  _Thermodynamic efficiency of atmospheric motion governed by the Lorenz system_<br>
     **Zhen Li** and Yuki Izumida<br>
-    [Phys. Rev. E **108**, 044201](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.044201) / [arXiv: 2302.03887](https://arxiv.org/abs/2302.03887) (2023)
+    [*Phys. Rev. E* **108**, 044201](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.044201) / [arXiv: 2302.03887](https://arxiv.org/abs/2302.03887) (2023)
 2.  _Decomposition of metric tensor in thermodynamic geometry in terms of relaxation timescales_<br>
     **Zhen Li** and Yuki Izumida<br>
-    [Phys. Rev. E **111**, 034113](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.034113) / [arXiv: 2409.08546](https://arxiv.org/abs/2409.08546) (2025)
+    [*Phys. Rev. E* **111**, 034113](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.034113) / [arXiv: 2409.08546](https://arxiv.org/abs/2409.08546) (2025)
 3. _Posterior Collapse as a Phase Transition in Variational Autoencoders_<br>
    **Zhen Li**, Fan Zhang, Zheng Zhang and Yu Chen<br>
-   <span style="color: red;"> Accepted by Physica A </span> / [arXiv: 2510.01621](https://arxiv.org/abs/2510.01621) (2025)
+   <span style="color: red;"> Accepted by *Physica A* </span> / [arXiv: 2510.01621](https://arxiv.org/abs/2510.01621) (2025)
 
 
 ## Preprint
