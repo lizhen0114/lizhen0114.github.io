@@ -15,7 +15,7 @@ author_profile: true
     [*Phys. Rev. E* **111**, 034113](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.034113) / [arXiv: 2409.08546](https://arxiv.org/abs/2409.08546) (2025)
 3. _Posterior Collapse as a Phase Transition in Variational Autoencoders_<br>
    **Zhen Li**, Fan Zhang, Zheng Zhang and Yu Chen<br>
-   <span style="color: red;"> Accepted by *Physica A* </span> / [arXiv: 2510.01621](https://arxiv.org/abs/2510.01621) (2025)
+   [*Physica A* **683**, 131228](https://www.sciencedirect.com/science/article/pii/S0378437125008805) / [arXiv: 2510.01621](https://arxiv.org/abs/2510.01621) (2026)
 
 
 ## Preprint
