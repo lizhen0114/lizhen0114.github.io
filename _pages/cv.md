@@ -24,21 +24,23 @@ redirect_from:
 *   **PhD student**: 2024.10 ~<br>
     [Graduate School of Frontier Science](https://www.k.u-tokyo.ac.jp), [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)<br>
     Kashiwa, Japan
-
+    
+<div style="display:none">
+  
 ## Work
-*   **Teacher**: 2021.08 ~ 2022.09<br>
+*   **Part-time Teacher**: 2019.08 ~ 2022.09<br>
     Xuecheng Education<br>
     Yantai, China
-
-<div style="display:none">
+  
 *   **Engineer**: 2021.08 ~ 2022.09<br>
     Xinfei Intelligent System Co. Ltd.<br>
     Yantai, China  
-<\div>
 
 *   **Part-time Teacher**: 2022.11 ~ <br>
     [Akamon Education](https://akjc-inc.com/)<br>
     Tokyo, Japan
+    
+<\div>
 
 ## Fellowship
 * [Spring GX](https://spring-gx.adm.s.u-tokyo.ac.jp/): 2024.10 ~
