@@ -29,11 +29,11 @@ redirect_from:
 *   **Part-time Teacher**: 2019.07 ~ 2019.08<br>
     Xuecheng Education<br>
     Yantai, China
-
+<div style="display:none">
 *   **Engineer**: 2021.09 ~ 2022.08<br>
     Xinfei Intelligent System Co. Ltd.<br>
     Yantai, China  
-
+<\div>
 *   **Part-time Teacher**: 2022.11 ~ <br>
     [Akamon Education](https://akjc-inc.com/)<br>
     Tokyo, Japan
