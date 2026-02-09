@@ -20,6 +20,10 @@ author_profile: true
 
 ## Preprint
 
+1. _Mean-Field Theory for Heider Balance under Heterogeneous Social Temperatures_<br>
+   **Zhen Li** and Yuki Izumida<br>
+   [arXiv:2602.06342](https://arxiv.org/abs/2602.06342) (2026)
+
 ## Presentation
 1.  _The thermodynamic efficiency and entropy generation rate of the Lorenz system_<br>
     **Zhen Li**<br>
