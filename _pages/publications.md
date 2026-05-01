@@ -16,13 +16,11 @@ author_profile: true
 3. _Posterior Collapse as a Phase Transition in Variational Autoencoders_<br>
    **Zhen Li**, Fan Zhang, Zheng Zhang and Yu Chen<br>
    [*Physica A* **683**, 131228](https://www.sciencedirect.com/science/article/pii/S0378437125008805) / [arXiv: 2510.01621](https://arxiv.org/abs/2510.01621) (2026)
-
+4. _Mean-Field Theory for Heider Balance under Heterogeneous Social Temperatures_<br>
+   **Zhen Li** and Yuki Izumida<br>
+   <font color="red">Accepted by <em>Phys. Rev. E</em></font> / [arXiv:2602.06342](https://arxiv.org/abs/2602.06342) (2026)
 
 ## Preprint
-
-1. _Mean-Field Theory for Heider Balance under Heterogeneous Social Temperatures_<br>
-   **Zhen Li** and Yuki Izumida<br>
-   [arXiv:2602.06342](https://arxiv.org/abs/2602.06342) (2026)
 
 ## Presentation
 1.  _The thermodynamic efficiency and entropy generation rate of the Lorenz system_<br>
