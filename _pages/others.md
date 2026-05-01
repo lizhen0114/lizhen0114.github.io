@@ -34,7 +34,7 @@ author_profile: true
 蓬萊歸路<br>
 
 ### 蘇幕遮
-火初闌<br>
+火微闌<br>
 燈未歇<br>
 一夜笙歌<br>
 散入初春雪<br>
