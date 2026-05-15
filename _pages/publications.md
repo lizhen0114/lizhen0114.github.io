@@ -13,12 +13,12 @@ author_profile: true
 2.  _Decomposition of metric tensor in thermodynamic geometry in terms of relaxation timescales_<br>
     **Zhen Li** and Yuki Izumida<br>
     [*Phys. Rev. E* **111**, 034113](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.034113) / [arXiv: 2409.08546](https://arxiv.org/abs/2409.08546) (2025)
-3. _Posterior Collapse as a Phase Transition in Variational Autoencoders_<br>
+3. _Posterior collapse as a phase transition in variational autoencoders_<br>
    **Zhen Li**, Fan Zhang, Zheng Zhang and Yu Chen<br>
    [*Physica A* **683**, 131228](https://www.sciencedirect.com/science/article/pii/S0378437125008805) / [arXiv: 2510.01621](https://arxiv.org/abs/2510.01621) (2026)
-4. _Mean-Field Theory for Heider Balance under Heterogeneous Social Temperatures_<br>
+4. _Mean-field theory for Heider balance under heterogeneous social temperatures_<br>
    **Zhen Li** and Yuki Izumida<br>
-   <font color="red">Accepted by Phys. Rev. E</font> / [arXiv:2602.06342](https://arxiv.org/abs/2602.06342) (2026)
+  [*Phys. Rev. E* **113**, 054307](https://journals.aps.org/pre/abstract/10.1103/9rlt-78n5) / [arXiv:2602.06342](https://arxiv.org/abs/2602.06342) (2026)
 
 ## Preprint
 
