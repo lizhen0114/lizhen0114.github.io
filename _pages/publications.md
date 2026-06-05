@@ -18,9 +18,13 @@ author_profile: true
    [*Physica A* **683**, 131228](https://www.sciencedirect.com/science/article/pii/S0378437125008805) / [arXiv: 2510.01621](https://arxiv.org/abs/2510.01621) (2026)
 4. _Mean-field theory for Heider balance under heterogeneous social temperatures_<br>
    **Zhen Li** and Yuki Izumida<br>
-  [*Phys. Rev. E* **113**, 054307](https://journals.aps.org/pre/abstract/10.1103/9rlt-78n5) / [arXiv:2602.06342](https://arxiv.org/abs/2602.06342) (2026)
+   [*Phys. Rev. E* **113**, 054307](https://journals.aps.org/pre/abstract/10.1103/9rlt-78n5) / [arXiv:2602.06342](https://arxiv.org/abs/2602.06342) (2026)
 
 ## Preprint
+
+1. _When alpha disappears: a one-switch benchmark for decision-time leakage in financial backtests_<br>
+   Fan Zhang, **Zhen Li**, Sijia Peng, Yu Chen<br>
+   [arXiv:2605.23959](https://arxiv.org/abs/2605.23959) (2026)
 
 ## Presentation
 1.  _The thermodynamic efficiency and entropy generation rate of the Lorenz system_<br>
@@ -38,4 +42,7 @@ author_profile: true
 5.  _Con-FinGAN: Authentic and Diverse Financial Time Series Generation_<br>
     Fan Zhang, **Zhen Li** and Yu Chen<br>
     [Statphys29](https://statphys29.org/), Firenze, Italy, 2025.07 (Poster)
+6. _Phase transitions in Heider balance with heterogeneous social temperatures_<br>
+    **Zhen Li** and Yuki Izumida<br>
+    [NetSci2026](https://www.netsci2026.com/), Boston, US, 2026.06 (Poster)
 
