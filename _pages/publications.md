@@ -25,6 +25,9 @@ author_profile: true
 1. _When alpha disappears: a one-switch benchmark for decision-time leakage in financial backtests_<br>
    Fan Zhang, **Zhen Li**, Sijia Peng, Yu Chen<br>
    [arXiv:2605.23959](https://arxiv.org/abs/2605.23959) (2026)
+2. _Residual spectral instabilities in representation learning_<br>
+   **Zhen Li**<br>
+   [arXiv:2610.11257](https://arxiv.org/abs/2610.11257) (2026)
 
 ## Presentation
 1.  _The thermodynamic efficiency and entropy generation rate of the Lorenz system_<br>
